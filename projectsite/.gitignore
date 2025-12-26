@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+psusenv/
+
+# Django stuff
+*.log
+db.sqlite3
+media/
+
+# Migrations (optional — uncomment if you don’t want migrations tracked)
+# */migrations/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db 
